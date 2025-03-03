@@ -13,8 +13,16 @@ This is a simple **Cafe Management System** developed using **Java**. It is desi
 - **Version Control**: GitHub
 
 ## Installation Instructions
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/SusanthikaKumari/Cafe-Management-System.git
+2. Open the project in your preferred IDE (e.g., IntelliJ IDEA, NetBeans).
+3. Run the project.
+
+## How to Use
+Run the application.
+Select items from the menu.
+Add items to the order.
+Calculate the total price.
+Process the transaction.
 
