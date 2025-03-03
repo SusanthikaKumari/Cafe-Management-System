@@ -8,7 +8,7 @@ This is a simple **Cafe Management System** developed using **Java**. It is desi
 
 ## Technologies Used
 - **Programming Language**: Java
-- **Development Tools**: NetBeans, IntelliJ IDEA
+- **Development Tool**: NetBeans
 - **Database**: MySQL
 - **Version Control**: GitHub
 
