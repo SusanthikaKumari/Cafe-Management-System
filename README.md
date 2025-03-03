@@ -20,9 +20,9 @@ This is a simple **Cafe Management System** developed using **Java**. It is desi
 3. Run the project.
 
 ## How to Use
-Run the application.
-Select items from the menu.
-Add items to the order.
-Calculate the total price.
-Process the transaction.
+- Run the application.
+- Select items from the menu.
+- Add items to the order.
+- Calculate the total price.
+- Process the transaction.
 
